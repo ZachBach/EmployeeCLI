@@ -1,0 +1,19 @@
+{
+  "name": "homework-12-employeetracker",
+  "version": "1.0.0",
+  "description": "Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "ZachBach",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1",
+    "sql": "^0.78.0"
+  }
+}
